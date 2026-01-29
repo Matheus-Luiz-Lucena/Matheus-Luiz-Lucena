@@ -5,9 +5,13 @@ Sou **Software Engineer** na **Tradestar**, atuando no desenvolvimento de soluç
 Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contribuições relacionadas ao desenvolvimento **Full Stack**, arquitetura de software e tecnologia em geral.
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true" height="160" />
+</p>
 
-![Followers](https://img.shields.io/github/followers/Matheus-Luiz-Lucena?style=flat)
-![Stars](https://img.shields.io/github/stars/Matheus-Luiz-Lucena?style=flat)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Luiz-Lucena&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
