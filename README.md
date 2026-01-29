@@ -6,9 +6,8 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 
 ---
 
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/Matheus-Luiz-Lucena?style=flat)
+![Stars](https://img.shields.io/github/stars/Matheus-Luiz-Lucena?style=flat)
 
 ---
 
