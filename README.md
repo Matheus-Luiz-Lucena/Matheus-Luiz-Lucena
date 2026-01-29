@@ -9,7 +9,6 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 
 <img src="https://raw.githubusercontent.com/Matheus-Luiz-Lucena/Matheus-Luiz-Lucena/output/snake.svg" />
 
-
 ---
 
 ## 🏢 Atualmente
