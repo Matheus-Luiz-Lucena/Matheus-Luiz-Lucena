@@ -13,8 +13,6 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Luiz-Lucena&layout=compact&theme=dark" />
 </p>
 
-> Os dados acima refletem commits, repositórios públicos, linguagens mais usadas e contribuições ao longo do tempo.
-
 ---
 
 ## 🏢 Atualmente
