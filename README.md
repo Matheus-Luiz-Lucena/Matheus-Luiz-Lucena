@@ -6,10 +6,9 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-luiz-lucena&show_icons=true" />
+## 🔥 GitHub Streak
 
-
+<img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true" />
 
 ---
 
