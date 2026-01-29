@@ -8,7 +8,7 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true&date=20260129" height="160" />
 </p>
 
 <p align="center">
