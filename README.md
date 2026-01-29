@@ -9,9 +9,10 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Luiz-Lucena&show_icons=true&theme=dark&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Luiz-Lucena&layout=compact&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheus-luiz-lucena&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-luiz-lucena&layout=compact" />
 </p>
+
 
 ---
 
