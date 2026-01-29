@@ -6,12 +6,16 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Matheus-Luiz-Lucena&show_icons=true&include_all_commits=true&hide_border=true" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Luiz-Lucena&layout=compact&hide_border=true" 
+    height="150"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Luiz-Lucena&theme=github-compact&hide_border=true" />
-</p>
 
 ---
 
