@@ -7,11 +7,8 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 ---
 
 ## 📊 GitHub Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-luiz-lucena&show_icons=true" />
 
-<p align="left">
-  <img height="160" src="https://SEU-DOMINIO.vercel.app/api?username=matheus-luiz-lucena&show_icons=true&include_all_commits=true" />
-  <img height="160" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=matheus-luiz-lucena&layout=compact" />
-</p>
 
 
 ---
