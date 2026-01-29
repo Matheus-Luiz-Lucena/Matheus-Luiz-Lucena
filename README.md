@@ -2,14 +2,25 @@
 
 Sou **Software Engineer** na **Tradestar**, atuando no desenvolvimento de soluções escaláveis, automações e sistemas voltados para eficiência operacional e crescimento do negócio.
 
-Aqui você vai encontrar Link para projetos pessoais, estudos técnicos e contribuições relacionadas ao desenvolvimento FullStack, arquitetura de software e tecnologia em geral.
+Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contribuições relacionadas ao desenvolvimento **Full Stack**, arquitetura de software e tecnologia em geral.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Luiz-Lucena&show_icons=true&theme=dark&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Luiz-Lucena&layout=compact&theme=dark" />
+</p>
+
+> Os dados acima refletem commits, repositórios públicos, linguagens mais usadas e contribuições ao longo do tempo.
 
 ---
 
 ## 🏢 Atualmente
 
 - 💼 Software Engineer na **Tradestar**
-- 🔧 Foco em desenvolvimento backend e soluções corporativas
+- 🔧 Foco em desenvolvimento Full Stack e soluções corporativas
 - 🚀 Interesse em arquitetura, performance e boas práticas
 
 ---
@@ -24,11 +35,12 @@ Aqui você vai encontrar Link para projetos pessoais, estudos técnicos e contri
 
 ---
 
-## 📌 Repositórios
+## 📌 Repositórios & Contribuições
 
 - 🔒 Projetos corporativos (privados) — **Tradestar**
-- 🌱 Projetos pessoais e estudos — neste perfil - GitHub: https://github.com/matheusluiz  
+- 🌱 Projetos pessoais e estudos — neste perfil  
 - 📂 Exemplos de código, POCs e experimentos técnicos
+- 🤝 Participação ativa em repositórios próprios e colaborativos
 
 ---
 
