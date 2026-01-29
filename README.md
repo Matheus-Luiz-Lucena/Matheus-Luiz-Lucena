@@ -7,19 +7,8 @@ Aqui você vai encontrar links para projetos pessoais, estudos técnicos e contr
 ---
 ## 📈 Atividade no GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Luiz-Lucena&theme=github-dark&hide_border=true&date=20260129" height="160" />
-</p>
+<img src="https://raw.githubusercontent.com/Matheus-Luiz-Lucena/Matheus-Luiz-Lucena/output/snake.svg" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Luiz-Lucena&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Matheus-Luiz-Lucena?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Matheus-Luiz-Lucena?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Company-Tradestar-informational?style=for-the-badge" />
-</p>
 
 ---
 
